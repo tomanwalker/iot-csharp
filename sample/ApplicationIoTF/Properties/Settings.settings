@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ApplicationIoTF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="apikey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">a-jaonyl-dcm2rxnjjc</Value>
+    </Setting>
+    <Setting Name="authtokenApp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BK7dkYVt_3R*AzAL1z</Value>
+    </Setting>
+    <Setting Name="logPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

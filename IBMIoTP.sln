@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{A2F5F2FB-D3BA-43BB-B97E-BBD07E53AD7C}"
+	ProjectSection(SolutionItems) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationIoTF", "sample\ApplicationIoTF\ApplicationIoTF.csproj", "{2A682AAB-E0FD-467D-8E1D-47B4892A0947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceIoTF", "sample\DeviceIoTF\DeviceIoTF.csproj", "{3035DD59-7AF8-44C5-9E51-8C0302E7681E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "sample\Gateway\Gateway.csproj", "{7A9050F6-8500-439C-9A21-B27583DA9FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayMgmt", "sample\GatewayManagement\GatewayMgmt.csproj", "{F83AA7A9-5ECB-403A-A1F9-CB96C67279CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManagement", "sample\DeviceManagement\deviceManagement.csproj", "{522E5557-C390-4362-B237-0C1D49B2551B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBMWIoTP", "src\IBMWIoTP\IBMWIoTP.csproj", "{A41D9542-C3DF-422C-8293-457EEE710A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41D9542-C3DF-422C-8293-457EEE710A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41D9542-C3DF-422C-8293-457EEE710A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41D9542-C3DF-422C-8293-457EEE710A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41D9542-C3DF-422C-8293-457EEE710A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9050F6-8500-439C-9A21-B27583DA9FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9050F6-8500-439C-9A21-B27583DA9FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9050F6-8500-439C-9A21-B27583DA9FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9050F6-8500-439C-9A21-B27583DA9FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83AA7A9-5ECB-403A-A1F9-CB96C67279CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83AA7A9-5ECB-403A-A1F9-CB96C67279CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83AA7A9-5ECB-403A-A1F9-CB96C67279CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83AA7A9-5ECB-403A-A1F9-CB96C67279CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522E5557-C390-4362-B237-0C1D49B2551B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522E5557-C390-4362-B237-0C1D49B2551B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522E5557-C390-4362-B237-0C1D49B2551B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522E5557-C390-4362-B237-0C1D49B2551B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A682AAB-E0FD-467D-8E1D-47B4892A0947} = {A2F5F2FB-D3BA-43BB-B97E-BBD07E53AD7C}
+		{3035DD59-7AF8-44C5-9E51-8C0302E7681E} = {A2F5F2FB-D3BA-43BB-B97E-BBD07E53AD7C}
+		{7A9050F6-8500-439C-9A21-B27583DA9FCC} = {A2F5F2FB-D3BA-43BB-B97E-BBD07E53AD7C}
+		{F83AA7A9-5ECB-403A-A1F9-CB96C67279CE} = {A2F5F2FB-D3BA-43BB-B97E-BBD07E53AD7C}
+		{522E5557-C390-4362-B237-0C1D49B2551B} = {A2F5F2FB-D3BA-43BB-B97E-BBD07E53AD7C}
+	EndGlobalSection
+EndGlobal
