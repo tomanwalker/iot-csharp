@@ -9,6 +9,18 @@ This C# Client Library can be used to simplify interactions with the [IBM Watson
 - The [Gateway Management section] (docs/GatewayManagement.rst) contains information on how to connect the gateway as Managed Gateway to IBM Watson IoT Platform and manage the attached devices.
 - The [Application section] (docs/Application.rst) details how applications can use the C# IBMWIoTP Client Library to interact with devices.
 
+-----
+NuGet Package
+--------------------------------
+ C# library is available in [nuget](https://www.nuget.org/packages/IBMWIoTP/)
+ 
+To install IBMWIoTP, run the following command in the Package Manager Console 
+
+```
+  PM> Install-Package IBMWIoTP 
+```
+
+
 ----
 Dependencies
 -------------------------------------------------------------------------------
