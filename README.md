@@ -3,11 +3,11 @@ C# Client Library - Introduction
 
 This C# Client Library can be used to simplify interactions with the [IBM Watson IoT Platform] (https://internetofthings.ibmcloud.com). The documentation is divided into following sections:  
 
-- The [Device section] (https://github.com/ibm-messaging/iot-csharp/blob/master/docs/Device.rst) contains information on how devices publish events and handle commands using the C# IBMWIoTP Client Library.
-- The [Managed Device section] (https://github.com/ibm-messaging/iot-csharp/blob/master/docs/DeviceManagement.rst) contains information on how devices can connect to the Watson IoT Platform Device Management service using C# IBMWIoTP Client Library and perform device management operations like firmware update, location update, and diagnostics update.
-- The [Gateway section] (https://github.com/ibm-messaging/iot-csharp/blob/master/docs/Gateway.rst) contains information on how gateways publish events and handle commands for itself and for the attached devices using the C# IBMWIoTP Client Library.
-- The [Gateway Management section] (https://github.com/ibm-messaging/iot-csharp/blob/master/docs/GatewayManagement.rst) contains information on how to connect the gateway as Managed Gateway to IBM Watson IoT Platform and manage the attached devices.
-- The [Application section] (https://github.com/ibm-messaging/iot-csharp/blob/master/docs/Application.rst) details how applications can use the C# IBMWIoTP Client Library to interact with devices.
+- The [Device section] (docs/Device.rst) contains information on how devices publish events and handle commands using the C# IBMWIoTP Client Library.
+- The [Managed Device section] (docs/DeviceManagement.rst) contains information on how devices can connect to the Watson IoT Platform Device Management service using C# IBMWIoTP Client Library and perform device management operations like firmware update, location update, and diagnostics update.
+- The [Gateway section] (docs/Gateway.rst) contains information on how gateways publish events and handle commands for itself and for the attached devices using the C# IBMWIoTP Client Library.
+- The [Gateway Management section] (docs/GatewayManagement.rst) contains information on how to connect the gateway as Managed Gateway to IBM Watson IoT Platform and manage the attached devices.
+- The [Application section] (docs/Application.rst) details how applications can use the C# IBMWIoTP Client Library to interact with devices.
 
 ----
 Dependencies
@@ -21,4 +21,4 @@ Dependencies
 License
 -----------------------
 
-The library is shipped with Eclipse Public License and refer to the [License file] (https://github.com/ibm-messaging/iot-csharp/blob/master/LICENSE) for more information about the licensing.
+The library is shipped with Eclipse Public License and refer to the [License file] (LICENSE) for more information about the licensing.
