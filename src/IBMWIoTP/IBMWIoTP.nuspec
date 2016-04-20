@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/ibm-messaging/iot-csharp/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ibm-messaging/iot-csharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2016 IBM Corporation</copyright>
+    <tags>IBM iot</tags>
+  </metadata>
+</package>
